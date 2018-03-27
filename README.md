@@ -1,4 +1,4 @@
 ## hacking_basic_python
 - solving examples to study python
 - study with WJSNSeala
-- use python 3.6.0 :: Anaconda 4.3.1 (64-bit)
+- use python 2.7.14 [MSC v.1500 32 bit (Intel)]
